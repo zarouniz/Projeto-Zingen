@@ -23,6 +23,16 @@
   gap: 1rem;
 }
 
+.flex {
+  display: flex;
+}
+.gap-1 {
+  gap: 1rem;
+}
+.grid {
+  display: grid;
+}
+
 @media (width >= 90em) {
   .container {
     --max-width: 90em;
@@ -33,6 +43,6 @@
   .even-columns {
     grid-auto-flow: column;
     grid-auto-columns: 1fr;
-    
+
   }
 }
