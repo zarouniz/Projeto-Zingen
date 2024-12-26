@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root {
+ --brand-color-primary: #F7B733;
+ --brand-color-secondary: #FC4A1A;
+ --brand-gradient: #FC4A1A #F7B733;
+ 
+ --background-color: #09090B;
+ --surface-color: #18181b;
+ --stroke-color: #27272A;
+
+ --text-color-secondary: #A1A1AA;
+ --text-color-primary: #F4F4F5;
+
+ --font-family: "Inter", serif;
+}
