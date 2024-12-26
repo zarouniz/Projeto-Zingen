@@ -7,11 +7,13 @@
 .py-xl {
   padding-block: var(--py-xl);
 }
-
+.px-lg {
+  padding-inline: var(--px-lg);
+}
 .container {
   --max-width: 390px;
   width: min(var(--max-width), 100% - var(--px-lg) * 2);
-  border: solid white;
+  /* border: solid white; */
   margin-inline: auto;
 }
 
@@ -26,8 +28,14 @@
 .flex {
   display: flex;
 }
+.items-center {
+  align-items: center;
+}
 .gap-1 {
   gap: 1rem;
+}
+.gap-1\.5{
+  gap: 1.5rem;
 }
 .grid {
   display: grid;
