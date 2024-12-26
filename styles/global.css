@@ -84,7 +84,7 @@ ul[role="list"] {
   
 }
 
-@media (width >= 90em) {
+@media (width >= 80em) {
   :root {
   --fs-lg: 2rem;
   --fs-xl: 3rem;

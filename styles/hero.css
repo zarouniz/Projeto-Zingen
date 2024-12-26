@@ -1,0 +1,41 @@
+#hero {
+  text-align: center;
+
+  & img[src*="bars"] {
+    width: 12.875rem;
+  }
+  & .buttons {
+    justify-content: center;
+    margin-top: 2rem;
+   }
+
+  & h1 {
+    margin-top: 1rem;
+  }
+  & p {
+    font: var(--fw-mid) var(--fs-lg)/1.4 var(--ff-serif);
+    color: var(--text-color-secondary);
+    margin-top: 0.5rem;
+  }
+
+}
+  @media (width >= 80em){
+    #hero {
+      background: url(../assets/Illustration.svg) no-repeat bottom center/contain;
+      padding-bottom: 15rem;
+      & img[src*="bars"] {
+      width: 25.75rem;
+    }
+    & h1 {
+      margin-top: 1.5rem;
+    }
+    & p {
+      margin-top: 1rem;
+      font-size: 2.5rem;
+    }
+
+    .buttons {
+      margin-top: 3rem;
+    }
+  }
+} 

@@ -11,7 +11,7 @@
   padding-inline: var(--px-lg);
 }
 .container {
-  --max-width: 390px;
+  --max-width: 375px;
   width: min(var(--max-width), 100% - var(--px-lg) * 2);
   /* border: solid white; */
   margin-inline: auto;
@@ -41,9 +41,9 @@
   display: grid;
 }
 
-@media (width >= 90em) {
+@media (width >= 80em) {
   .container {
-    --max-width: 90em;
+    --max-width: 80em;
   }
   .desktop-only {
     display: initial;
