@@ -18,7 +18,7 @@ Projeto de estudo sobre responsividade e nesting css
 <br>
 
 <p align="center">
-  <img alt="projeto formulário de matrícula" src=".github/cover.jpg" width="100%">
+  <img alt="Zingen Karaokê" src=".github/cover.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Formulário de Matrícula é de uso da Escola do Amanhã
+O Zingen é um app de Karaokê online. 
 
 ## 🔖 Layout
 
