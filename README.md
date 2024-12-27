@@ -18,7 +18,7 @@ Projeto de estudo sobre responsividade e nesting css
 <br>
 
 <p align="center">
-  <img alt="Zingen Karaokê" src=".github/cover.jpg" width="100%">
+  <img alt="Zingen Karaokê" src="/.github/cover.jpg width="100%">
 </p>
 
 ## 🚀 Tecnologias
